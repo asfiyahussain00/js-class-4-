@@ -81,21 +81,64 @@
 
 
 
-// Operator in Js
-
-// let num1 = 5;
-// let num2 = 5 ;
-// console.log( "Increment" , num1+num2)
-// console.log( "decrement" , num1-num2)
-// console.log("Exponentiation" , num1*num2)
-// console.log( "modules" , num1/num2)
-
-
 
 // use for new line
 // alert("happy coding!\n prevent this page from creating additional dialogs");
 
 //  in documte.write we use <br> for new line
 // document.write("Happy coding <br> hello javascript")
+
+// class 5 
+
+// Operaters In Js
+
+// let num1 = 2; 
+// let num2 = 10; 
+// let num3 = 6;
+// sum of Number
+// console.log("sum of number =" , num1+num2+num3);
+// sub of Number
+// console.log("sub of number =" , num1-num2-num3)
+// Multiply of Number
+// console.log("multiply of number =" , num1*num2*num3);
+// Divide of Number
+// console.log("divide of number =" , num1/+num2/num3);
+// Percentage of Number
+// console.log("percentage of number =" , num3%num1);
+// module of Number
+// console.log( "power of num1 and num2 =",num3**num1 );
+
+// increment & decrement
+// let a = 10 ;
+ // in mathmactic concept
+// a = a+2; 12
+ // a = a-2; 10
+ // console.log(a)
+
+// in javascript for add one we write
+// let x = 20;
+// x--;
+// x++
+// console.log(x);
+
+
+// let a = 20 ;
+// a++
+// console.log(a); // 21
+// console.log(++a);//22
+// console.log(a--);//22
+// console.log(a);//21
+
+
+// let x = 49 ;
+// console.log(x++); //49
+// console.log(--x); //49 
+
+
+
+//  let r = 12; 
+//  r = r++; 
+//  r--; 
+//  console.log(--r); //10
 
 
